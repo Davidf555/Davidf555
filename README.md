@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Davi, Programador Full Stack ;)
 
 <div><a href="https://github.com/Davidf555">
-  <img height="140em"src="https://github-readme-stats.vercel.app/api?username=Davidf555&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em"src="https://github-readme-stats.vercel.app/api?username=Davidf555&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidf555&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
